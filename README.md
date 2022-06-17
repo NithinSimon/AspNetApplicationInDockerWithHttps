@@ -1,0 +1,2 @@
+This is a simple ASP.net application which is run on docker with HTTPS enabled
+Includes creating a dedicated self-signed development certificate, configuring user secrets and passing in the necessary environment variables to the container to enable HTTPS
